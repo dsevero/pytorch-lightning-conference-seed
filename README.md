@@ -10,7 +10,7 @@ The goal of this seed is to structure ML paper-code the same so that work can ea
 
 ###### DELETE EVERYTHING ABOVE FOR YOUR PROJECT   
 ---   
-<div align="center">    
+<div align="center">
  
 # Your Project Name     
 
@@ -63,10 +63,10 @@ List your baselines here.
 
 ### Citation   
 ```
-@article{YourName,
-  title={Your Title},
-  author={Your team},
-  journal={Location},
-  year={Year}
+@article{severo2019ward2icu,
+  title={Ward2ICU: A Vital Signs Dataset of Inpatients from the General Ward},
+  author={Severo, Daniel and Amaro, Fl{\'a}vio and Hruschka Jr, Estevam R and Costa, Andr{\'e} Soares de Moura},
+  journal={arXiv preprint arXiv:1910.00752},
+  year={2019}
 }
 ```   
